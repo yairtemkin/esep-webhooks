@@ -1,0 +1,8 @@
+{
+  "name": "esep-webhooks",
+  "version": "1.0.0",
+  "description": "webhooks for github",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
